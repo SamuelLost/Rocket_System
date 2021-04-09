@@ -1,0 +1,7 @@
+add_subdirectory (edf)
+add_subdirectory (rm)
+add_subdirectory (rocket_system)
+add_subdirectory (sporadic)
+add_subdirectory (cbserver)
+add_subdirectory (grub)
+#add_subdirectory (suspend)
