@@ -1,0 +1,70 @@
+[Time:0]	Task 1 arrived at 0
+[Time:0]	Task 2 arrived at 0
+[Time:0]	Task 3 arrived at 0
+[Time:0]	Task 1 scheduled its arrival was 0
+[Time:30]	Task 1 ended, its arrival was 0
+[Time:30]	Task 2 scheduled its arrival was 0
+[Time:50]	Task 2 ended, its arrival was 0
+[Time:50]	Task 1 arrived at 50
+[Time:50]	Task 3 scheduled its arrival was 0
+[Time:70]	Task 3 ended, its arrival was 0
+[Time:70]	Task 1 scheduled its arrival was 50
+[Time:100]	Task 1 ended, its arrival was 50
+[Time:100]	Task 2 arrived at 100
+[Time:100]	Task 1 arrived at 100
+[Time:100]	Task 1 scheduled its arrival was 100
+[Time:120]	Task 3 arrived at 120
+[Time:130]	Task 1 ended, its arrival was 100
+[Time:130]	Task 2 scheduled its arrival was 100
+[Time:150]	Task 2 ended, its arrival was 100
+[Time:150]	Task 1 arrived at 150
+[Time:150]	Task 3 scheduled its arrival was 120
+[Time:170]	Task 3 ended, its arrival was 120
+[Time:170]	Task 1 scheduled its arrival was 150
+[Time:200]	Task 1 ended, its arrival was 150
+[Time:200]	Task 2 arrived at 200
+[Time:200]	Task 1 arrived at 200
+[Time:200]	Task 1 scheduled its arrival was 200
+[Time:230]	Task 1 ended, its arrival was 200
+[Time:230]	Task 2 scheduled its arrival was 200
+[Time:240]	Task 3 arrived at 240
+[Time:250]	Task 2 ended, its arrival was 200
+[Time:250]	Task 1 arrived at 250
+[Time:250]	Task 3 scheduled its arrival was 240
+[Time:270]	Task 3 ended, its arrival was 240
+[Time:270]	Task 1 scheduled its arrival was 250
+[Time:300]	Task 1 ended, its arrival was 250
+[Time:300]	Task 2 arrived at 300
+[Time:300]	Task 1 arrived at 300
+[Time:300]	Task 1 scheduled its arrival was 300
+[Time:330]	Task 1 ended, its arrival was 300
+[Time:330]	Task 2 scheduled its arrival was 300
+[Time:350]	Task 2 ended, its arrival was 300
+[Time:350]	Task 1 arrived at 350
+[Time:350]	Task 1 scheduled its arrival was 350
+[Time:360]	Task 3 arrived at 360
+[Time:380]	Task 1 ended, its arrival was 350
+[Time:380]	Task 3 scheduled its arrival was 360
+[Time:400]	Task 3 ended, its arrival was 360
+[Time:400]	Task 2 arrived at 400
+[Time:400]	Task 1 arrived at 400
+[Time:400]	Task 1 scheduled its arrival was 400
+[Time:430]	Task 1 ended, its arrival was 400
+[Time:430]	Task 2 scheduled its arrival was 400
+[Time:450]	Task 2 ended, its arrival was 400
+[Time:450]	Task 1 arrived at 450
+[Time:450]	Task 1 scheduled its arrival was 450
+[Time:480]	Task 1 ended, its arrival was 450
+[Time:480]	Task 3 arrived at 480
+[Time:480]	Task 3 scheduled its arrival was 480
+[Time:500]	Task 3 ended, its arrival was 480
+[Time:500]	Task 2 arrived at 500
+[Time:500]	Task 1 arrived at 500
+[Time:500]	Task 1 scheduled its arrival was 500
+[Time:530]	Task 1 ended, its arrival was 500
+[Time:530]	Task 2 scheduled its arrival was 500
+[Time:550]	Task 2 ended, its arrival was 500
+[Time:550]	Task 1 arrived at 550
+[Time:550]	Task 1 scheduled its arrival was 550
+[Time:580]	Task 1 ended, its arrival was 550
+[Time:600]	Task 3 arrived at 600
